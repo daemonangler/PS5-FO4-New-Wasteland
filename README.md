@@ -13,24 +13,15 @@ I am not sure if all (for example X-02 Power Armor or Enclave Remnants) are free
 
 [Armor Paint Job - Enclave](https://creations.bethesda.net/en/fallout4/details/ea743331-65e7-464c-be84-a5e00e044613/Armor_Paint_Job___Enclave)  
 [Doom BFG](https://creations.bethesda.net/en/fallout4/details/ec0d66e6-13e1-4f04-acc7-00a13c204c77/Doom_BFG) (+ Quest)  
-
-[Doom Classic Marine Armor](https://creations.bethesda.net/en/fallout4/details/d5a106e2-28f2-4d38-bfb3-e057894fb51e/Doom_Classic_Marine_Armor)
-
-[Hellfire Power Armor](https://creations.bethesda.net/en/fallout4/details/fe4d081b-6afa-47f6-b07d-cb54ab685921/Hellfire_Power_Armor)
-
-[Heavy Incinerator](https://creations.bethesda.net/en/fallout4/details/89495cd1-0dba-4a1d-bc57-a5c9d3b2c41e/Heavy_Incinerator) (+ Quest)
-
-[Helloween Workshop Pack](https://creations.bethesda.net/en/fallout4/details/19361ca7-8ae7-4f67-9671-39620c50a8b4/Halloween_Workshop_Pack)
-
-[Makeshift Weapon Pack](https://creations.bethesda.net/en/fallout4/details/e50bf0de-ecc5-4f26-9981-2534d68d8e4c/Makeshift_Weapon_Pack) (+ Quest)
-
-[Morgan's Space Suit](https://creations.bethesda.net/en/fallout4/details/2615a680-883c-4420-9a48-a2a0f455c993/Morgan_s_Space_Suit) 
-
-[Weapon Paint Job - Enclave](https://creations.bethesda.net/en/fallout4/details/689ec697-bc3f-426c-a907-c343677d6494/Weapon_Paint_Job___Enclave) 
-
-[Quake Thunderbolt](https://creations.bethesda.net/en/fallout4/details/3c0aa0b2-81d3-4d55-b591-fe7905c9816e/Quake_Thunderbolt) (+ Quest)
-
-[X-02 Power Armor](https://creations.bethesda.net/en/fallout4/details/0662a3b1-ab36-4401-9d1f-82bf6b712e6d/X_02_Power_Armor) (+ Quest)
+[Doom Classic Marine Armor](https://creations.bethesda.net/en/fallout4/details/d5a106e2-28f2-4d38-bfb3-e057894fb51e/Doom_Classic_Marine_Armor)  
+[Hellfire Power Armor](https://creations.bethesda.net/en/fallout4/details/fe4d081b-6afa-47f6-b07d-cb54ab685921/Hellfire_Power_Armor)  
+[Heavy Incinerator](https://creations.bethesda.net/en/fallout4/details/89495cd1-0dba-4a1d-bc57-a5c9d3b2c41e/Heavy_Incinerator) (+ Quest)  
+[Helloween Workshop Pack](https://creations.bethesda.net/en/fallout4/details/19361ca7-8ae7-4f67-9671-39620c50a8b4/Halloween_Workshop_Pack)  
+[Makeshift Weapon Pack](https://creations.bethesda.net/en/fallout4/details/e50bf0de-ecc5-4f26-9981-2534d68d8e4c/Makeshift_Weapon_Pack) (+ Quest)  
+[Morgan's Space Suit](https://creations.bethesda.net/en/fallout4/details/2615a680-883c-4420-9a48-a2a0f455c993/Morgan_s_Space_Suit)  
+[Weapon Paint Job - Enclave](https://creations.bethesda.net/en/fallout4/details/689ec697-bc3f-426c-a907-c343677d6494/Weapon_Paint_Job___Enclave)  
+[Quake Thunderbolt](https://creations.bethesda.net/en/fallout4/details/3c0aa0b2-81d3-4d55-b591-fe7905c9816e/Quake_Thunderbolt) (+ Quest)  
+[X-02 Power Armor](https://creations.bethesda.net/en/fallout4/details/0662a3b1-ab36-4401-9d1f-82bf6b712e6d/X_02_Power_Armor) (+ Quest)  
 
 ### Quests
 [Enclave Remnants](https://creations.bethesda.net/en/fallout4/details/495ed8a2-e85a-49f2-b66e-b3825363f5ca/Enclave_Remnants)
@@ -45,7 +36,7 @@ Environmental
 Overgrown  Concord, Drumlin Diner , Cambridge, Diamond City (not sure yet if conflicting)
 maybe Better Weather Base + DLC (not sure yet if conflicting)
 Distant Blur Remover (still broken)
-Night Time God Rays
+[Night Time God Rays]x(https://creations.bethesda.net/ja/fallout4/details/da2162fb-4209-4739-9e76-20ae85e1fb35/Night_Time_God_Rays_by_Bretton)
 Near Zero Fog (still broken)
 Just a little Cleaner - AIO (STS Add On)
 Grass is Greener (not sure yet if conflicting)
@@ -54,10 +45,12 @@ Food Drink and Crop Overhaul (Survival)
 [Clear Horizons](https://creations.bethesda.net/ja/fallout4/details/4c0b01ab-5708-483a-96aa-9eaa8e251cdf/Clear_Horizons) (still broken)
 Safe and Cozy Houses (Survival)
 Rabbits Chickens Crabs, etc (Feast and Famine)
-Vault-Tec Workshop Light Tweaks
+Vault-Tec Workshop Light Tweaks 
 
-Settlement
+Settlements
 [The Murkwater Bus Barricade – PS4](https://creations.bethesda.net/en/fallout4/details/89cee2b8-e4c5-49a5-9fa9-8ee795cfd366/The_Murkwater_Bus_Barricade__PS4_)
+(PS4) STS - All-In-One
+(PS4) STS - Vault-Tec Workshop Addon
 
 Visuals
 Campfires Burning and Cook Stations Too (still broken)
@@ -71,17 +64,22 @@ Candy Eye - Vintage Weather (not sure yet if conflicting)
 Candy Eye - Vintage Weather and environment lighting overhaul (DLC plugin)
 
 UI
-Bindford 6100 Inventory Organizer (Playstation Version) (still broken)
-1st Person Animation Tweaks (PS4)
-Vanilla Pip-Flashlight (conflivting with (Useful Flashlight)
-Radiant Quest Marker (Complete) (PS4) (still broken)
-  Radiant Quest Marker (Main Game) (PS4) (still broken)
-  Radiant Quest Marker (Wasteland Workshop) (PS4) (still broken)
-  Radiant Quest Marker (Automatron) (PS4) (still broken)
-  Radiant Quest Marker (Far Harbor) (PS4) (still broken)
-  Radiant Quest Marker (Nuka-World) (PS4) (still broken)
-More Map Markers (PS4)
-Better Dialogue 
-Corpses Glow /w Scrapper Perk
-Immmersive CHem Station Overhaul (idk)
-Lore-Based Loading Screens [PS4/5]
+[Binford 6100 Inventory Organizer (PlayStation Version)](https://creations.bethesda.net/en/fallout4/details/1b2293eb-efca-4329-a6a2-55e70d778a85/Binford_6100_Inventory_Organizer__PlayStation_Vers)  
+[1st Person Animation Tweaks (PS4)](https://creations.bethesda.net/tr/fallout4/details/61e8605b-d2d3-469f-9170-1d30028c719e/1st_Person_Animation_Tweaks__PS4_)
+[Vanilla Pip-Flashlight](https://creations.bethesda.net/ja/fallout4/details/02bf4bf3-d6a6-42b6-824d-4a9e49d67bf9/Vanilla_Pip_Flashlight__PS4_) (conflivting with (Useful Flashlight)
+[Radiant Quest Marker (Complete) [PS4)](https://creations.bethesda.net/ja/fallout4/details/dc5d827b-22e5-41b7-b109-6932344c194e/Radiant_Quest_Marker__Complete___PS4_)   
+  [Radiant Quest Marker (Main Game) [PS4)](https://creations.bethesda.net/ja/fallout4/details/a00ef34a-8791-49f4-9015-dbee3c8dee51/Radiant_Quest_Marker__Main_Game___PS4_)  
+  [Radiant Quest Marker (Wasteland Workshop) [PS4)](https://creations.bethesda.net/ja/fallout4/details/d15e78e0-9cd3-4688-9ff8-cdf4d36e3806/Radiant_Quest_Marker__Wasteland_Workshop_) 
+  [Radiant Quest Marker (Automatron) (PS4)](https://creations.bethesda.net/ja/fallout4/details/21209c6e-18e6-4bd7-861d-e16d86f34ba3/Radiant_Quest_Marker__Automatron___PS4_)
+  [Radiant Quest Marker (Far Harbor) [PS4)](https://creations.bethesda.net/ja/fallout4/details/761f5114-00e5-4eee-93e9-b8e133833055/Radiant_Quest_Marker__Far_Harbor___PS4_) 
+  [Radiant Quest Marker (Nuka-World) (PS4)](https://creations.bethesda.net/ja/fallout4/details/07370329-e0f6-445b-bfc4-34b4c1cc317a/Radiant_Quest_Marker__Nuka_World___PS4_)
+[More Map Markers (PS4)](https://creations.bethesda.net/ja/fallout4/details/29f2afe7-1dc9-4bad-b67b-b4c9db51a6b1/More_Map_Markers__PS4_)
+[Better Dialogue](https://creations.bethesda.net/ja/fallout4/details/3dd1a407-c84e-449b-ae53-a74d8b282f77/Better_Dialogue)
+[Corpses Glow /w Scrapper Perk](https://creations.bethesda.net/ja/fallout4/details/69e84898-cba9-40d7-9259-b0bf71e6f82c/Corpses_Glow__w_Scrapper_Perk)
+Immmersive Chem Station Overhaul (idk)
+[Lore-Based Loading Screens PS4/5](https://creations.bethesda.net/en/fallout4/details/66654ce9-cf85-495a-91c6-dfc4d6526d01/Lore_Based_Loading_Screens__PS4_5_)
+
+Workshop
+(PS) Wireless Workshop Items (haven't tried, might try if FPS dips in Settlements!)
+(PS4) Integrated Commonwealth (updates a lot of leveling lists, might conflict with Factions Overahauls or overhauling other significant aspects of the game) 
+[Improved Quest Objectives](https://creations.bethesda.net/ja/fallout4/details/d811b4f8-0881-47bd-9099-ca202085d433/Improved_Quest_Objectives_for_FO4)
