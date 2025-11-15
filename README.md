@@ -3,7 +3,37 @@ A definitive mod guide for Fallout 4 on next-gen / )PlayStation 5.
 As of now this is a cold hard list, will update when I find time. 
 Mods are grouped by category in the Creation Club
 
-## Creation ClubC Content  
+## Creation Club Content  
+
+### Audio  
+Reverb and Ambience Overhaul - Tweaked  
+Superior Longs  
+(RADIO)  
+(PS4) Enclave Patriotic Radio (Restored)  
+(PS4) USO Enclave Patriotic Radio (Add-On for Unlocked Settlement Objects)  
+Fallout 76-Style Region Music  
+Fix Quiet Radios  
+Quieter Power Armor  
+Chatterbox - Immersive Conversation Ambience (Channel 88)  
+Chatterbox - Immersive Conversation Ambience (Channel 87)  
+More Volume Adjustments in Settings (PS4)  
+TLS Sound Overhaul fo4 PS4 (might conflight with Reverb Overhaul)  
+Real-Time Death - No SFX + Blackout  
+Extended Fake Interiors - Commonwealth Buildings Fixes (All DLC)  
+
+Characters
+Companion Face Overhaul  
+
+Graphics
+Darker Nights & Rainy Weather (idk)  
+
+
+
+Immersion
+FINALLY Its looted?  
+Craftable Cap Stashes  
+Campfires Burning and Cook Stations Too (still broken)  
+
 
 ### Creation Club / Bethesda  
 Some creations go on sale at a cost of 0 and they rotate! It's worth checking out.  
@@ -51,9 +81,30 @@ Vault-Tec Workshop Light Tweaks
 [The Murkwater Bus Barricade – PS4](https://creations.bethesda.net/en/fallout4/details/89cee2b8-e4c5-49a5-9fa9-8ee795cfd366/The_Murkwater_Bus_Barricade__PS4_)  
 (PS4) STS - All-In-One  
 (PS4) STS - Vault-Tec Workshop Addon  
+(DLC) Caravans & Provisioners Open Carry
+Art Appreciatio (PS4)
+
+
+Misceleannous
+Armor and Weapon Keywords Commmunity Resource (AWKCR) (PS4: ALL DLC)
+
+
+Overhaul
+LoreVerHaul?
+(PS$) Manufacturing Overhauled: Season Pass Version
+
+
+### Gameplay  
+[Sarajiel's Weightless Junk Redux (PS4)](https://creations.bethesda.net/en/fallout4/details/ac7c861b-0b0b-450e-ac63-cbb5f30e8704/Sarajiel_s_Weightless_Junk_Redux__PS4_)
+[Tweaks - Survival Fast Travel Settlements All DLC](https://creations.bethesda.net/en/fallout4/details/4e7ca738-c720-469f-b89a-c7e23dc2b54e/Tweaks___Survival_Fast_Travel_Settlements_All_DLC) (Survival)  
+[Rich Vendors+ (Complete) 1K](https://creations.bethesda.net/en/fallout4/details/796e5601-4664-4a63-be7c-d07528c6a119/Rich_Vendors___Complete__1K)  
+[Leveled Item Fixes (LIF)](https://creations.bethesda.net/en/fallout4/details/00a32a86-6813-488f-8063-4df23020054e/Leveled_Item_Fixes__LIF_)  
+
+
+
 
 ### Visuals  
-Campfires Burning and Cook Stations Too (still broken)  
+
 Blood Fixes by Glitchfinder  
 Lightweight Lighting (not sure yet if conflicting)  
 [Useful Flashlight](https://creations.bethesda.net/en/fallout4/details/febfba65-2104-44ac-9349-6d7d4c007941/Useful_Flashlight)  
@@ -83,3 +134,5 @@ Workshop
 (PS) Wireless Workshop Items (haven't tried, might try if FPS dips in Settlements!)
 (PS4) Integrated Commonwealth (updates a lot of leveling lists, might conflict with Factions Overahauls or overhauling other significant aspects of the game) 
 [Improved Quest Objectives](https://creations.bethesda.net/ja/fallout4/details/d811b4f8-0881-47bd-9099-ca202085d433/Improved_Quest_Objectives_for_FO4)
+Vault Looter (Easy Mode) (adds Vault loot boxes) 
+
