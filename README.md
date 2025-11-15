@@ -1,7 +1,7 @@
 # PS5-FO4-New-Wasteland
-A definitive mod guide for Fallout 4 on next-gen / )PlayStation 5. 
-As of now this is a cold hard list, will update when I find time. 
-Mods are grouped by category in the Creation Club
+A definitive mod guide for Fallout 4 on next-gen / )PlayStation 5.  
+As of now this is a not even finished list, will update when I find time.  
+Mods are grouped by category in the Creation Club on PS5.  
 
 ## Creation Club Content  
 
