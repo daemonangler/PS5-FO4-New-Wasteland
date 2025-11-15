@@ -86,7 +86,17 @@ Art Appreciatio (PS4)
 
 
 Misceleannous
-Armor and Weapon Keywords Commmunity Resource (AWKCR) (PS4: ALL DLC)
+Armor and Weapon Keywords Commmunity Resource (AWKCR) (PS4: AllDLC)
+(Bug Fix) The Silver Shroud Quest (PS4) (PS5)
+(Bug Fix) Building a Better Crop Quest (PS4) (PS5)
+(PSX) Blood Fixes Patch to Remove Settlement blood by glitchfinder
+Basic Companions Helper (Not sure if conflicted with Characters mod)
+[Button Lowered Weapons](https://creations.bethesda.net/en/fallout4/details/e265897f-7484-406c-9bd3-fa0d87038b77/Button_Lowered_Weapons)
+[Button Lowered Weapons - Master File](https://creations.bethesda.net/en/fallout4/details/62946ce0-9bf3-4b1a-8192-ed68841ac595/Button_Lowered_Weapons___Master_File)
+[Cheaper Cryo Cells (PS4)](https://creations.bethesda.net/ja/fallout4/details/71ccfd97-7a03-4ecf-987a-ae00efe86d3c/Cheaper_Cryo_Cells__PS4_)  
+Lunar Fallout Overhaul 
+etc....  
+
 
 
 Overhaul
