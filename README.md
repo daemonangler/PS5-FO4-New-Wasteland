@@ -11,8 +11,8 @@ These are the Bethesda / Creation Club category creations I went for at that tim
 I am not sure if all (for example X-02 Power Armor or Enclave Remnants) are free all the time, so I grouped them here as well. 
 [link text](URL)
 
-[Armor Paint Job - Enclave](https://creations.bethesda.net/en/fallout4/details/ea743331-65e7-464c-be84-a5e00e044613/Armor_Paint_Job___Enclave)__
-[Doom BFG](https://creations.bethesda.net/en/fallout4/details/ec0d66e6-13e1-4f04-acc7-00a13c204c77/Doom_BFG) (+ Quest)__
+[Armor Paint Job - Enclave](https://creations.bethesda.net/en/fallout4/details/ea743331-65e7-464c-be84-a5e00e044613/Armor_Paint_Job___Enclave)  
+[Doom BFG](https://creations.bethesda.net/en/fallout4/details/ec0d66e6-13e1-4f04-acc7-00a13c204c77/Doom_BFG) (+ Quest)  
 
 [Doom Classic Marine Armor](https://creations.bethesda.net/en/fallout4/details/d5a106e2-28f2-4d38-bfb3-e057894fb51e/Doom_Classic_Marine_Armor)
 
