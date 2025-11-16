@@ -38,12 +38,12 @@ I am not sure if all (for example X-02 Power Armor or Enclave Remnants) are free
 [Real-Time Death - No SFX + Blackout](https://creations.bethesda.net/en/fallout4/details/f7a2c812-9953-494f-bbb5-1a2df55dea5e/Real_Time_Death___No_SFX___Blackout)  
 [Extended Fake Interiors - Commonwealth Buildings Fixes (All DLC)](https://creations.bethesda.net/en/fallout4/details/f95ba4aa-6e7a-4c2f-ba5a-ebcf4cd86d16/Extended_Fake_Interiors___Commonwealth_Buildings_F)  
 
-Automatron
+### Automatron
 
-Characters
+### Characters
 Companion Face Overhaul  
 
-Creatures
+### Creatures
 
 ### Environmental  
 
@@ -61,21 +61,20 @@ Safe and Cozy Houses (Survival)
 Rabbits Chickens Crabs, etc (Feast and Famine)  
 Vault-Tec Workshop Light Tweaks  
  
-Far Harbor
+### Far Harbor  
 
-Gameplay
+### Gameplay  
 
-Gear
+### Gear  
 
-Homes
+### Homes  
 
-Immersion
+### Immersion  
 FINALLY Its looted?  
 Craftable Cap Stashes  
 Campfires Burning and Cook Stations Too (still broken)  
 
-
-Misceleannous
+### Misceleannous  
 [Armor and Weapon Keywords Community Resource (AWKCR) (PS4: All DLC)](https://creations.bethesda.net/de/fallout4/details/007390b6-7925-4e6d-b263-ff2130884581/Armor_and_Weapon_Keywords_Community_Resource__AWKC)  
 [Bug Fix – The Silver Shroud Quest (PS4) (PS5)](https://creations.bethesda.net/ja/fallout4/details/f2a5b5f4-3f66-4490-b77d-396193674c8f/_Bug_Fix__The_Silver_Shroud_Quest__PS4___PS5_)  
 [Bug Fix - Building a Better Crop Quest (PS4/PS5)](https://creations.bethesda.net/ja/fallout4/details/e0c2ca4a-581b-4e79-84e3-bfd617cd5755/_Bug_Fix__Building_a_Better_Crop_Quest__PS4___PS5_)  
@@ -91,9 +90,9 @@ Misceleannous
 [No Collision Damage](https://creations.bethesda.net/en/fallout4/details/d79ac11d-fb0b-44aa-9d45-b93bb4c1ccd8/No_Collision_Damage)  
 
 
-Nuka World
+### Nuka World  
 
-Overhaul
+### Overhaul  
 LoreVerHaul?
 (PS$) Manufacturing Overhauled: Season Pass Version
 
@@ -102,23 +101,23 @@ LoreVerHaul?
 [Enclave Remnants](https://creations.bethesda.net/en/fallout4/details/495ed8a2-e85a-49f2-b66e-b3825363f5ca/Enclave_Remnants)
 
 
-### Crafting  ? not sure if I found this mod here tbh
+### Crafting  ? not sure if I found this mod here tbh  
 [Simple Bandages](https://creations.bethesda.net/en/fallout4/details/e010d73d-88ac-422e-91eb-be1560a96848/Simple_Bandages)
 
-### Settlements  ? definitely did not find these mods here
+### Settlements  ? definitely did not find these mods here  
 [The Murkwater Bus Barricade – PS4](https://creations.bethesda.net/en/fallout4/details/89cee2b8-e4c5-49a5-9fa9-8ee795cfd366/The_Murkwater_Bus_Barricade__PS4_)  
 [STS – All-In-One (PS4)](https://creations.bethesda.net/en/fallout4/details/5ae9b054-07e1-425e-9196-e6d1d1ce75c3/_PS4__STS___All_In_One)  
 [STS – Vault-Tec Workshop Addon (PS4)](https://creations.bethesda.net/en/fallout4/details/738d689d-6d13-45d2-93f5-817ff5cd56e2/_PS4__STS___Vault_Tec_Workshop_Addon)  
 [Caravans & Provisioners Open Carry (DLC)](https://creations.bethesda.net/en/fallout4/details/adb3d80b-8df5-4b82-8329-63f9454aecc2/_DLC__Caravans___Provisioners_Open_Carry)  
 [Art Appreciation (PS4)](https://creations.bethesda.net/en/fallout4/details/c36ea5ae-f43e-41d3-bb2b-52f8f721b711/Art_Appreciation__PS4_)  
 
-### Gameplay  ? definitely did not find these mods here
+### Gameplay  ? definitely did not find these mods here  
 [Sarajiel's Weightless Junk Redux (PS4)](https://creations.bethesda.net/en/fallout4/details/ac7c861b-0b0b-450e-ac63-cbb5f30e8704/Sarajiel_s_Weightless_Junk_Redux__PS4_)
 [Tweaks - Survival Fast Travel Settlements All DLC](https://creations.bethesda.net/en/fallout4/details/4e7ca738-c720-469f-b89a-c7e23dc2b54e/Tweaks___Survival_Fast_Travel_Settlements_All_DLC) (Survival)  
 [Rich Vendors+ (Complete) 1K](https://creations.bethesda.net/en/fallout4/details/796e5601-4664-4a63-be7c-d07528c6a119/Rich_Vendors___Complete__1K)  
 [Leveled Item Fixes (LIF)](https://creations.bethesda.net/en/fallout4/details/00a32a86-6813-488f-8063-4df23020054e/Leveled_Item_Fixes__LIF_)  
 
-### Quests
+### Quests  
 
 ### UI  
 [Binford 6100 Inventory Organizer (PlayStation Version)](https://creations.bethesda.net/en/fallout4/details/1b2293eb-efca-4329-a6a2-55e70d778a85/Binford_6100_Inventory_Organizer__PlayStation_Vers)  
@@ -136,7 +135,7 @@ LoreVerHaul?
 Immmersive Chem Station Overhaul (idk)  
 [Lore-Based Loading Screens PS4/5](https://creations.bethesda.net/en/fallout4/details/66654ce9-cf85-495a-91c6-dfc4d6526d01/Lore_Based_Loading_Screens__PS4_5_)  
 
-### Visuals  
+### Visuals   
 
 Blood Fixes by Glitchfinder  
 Lightweight Lighting (not sure yet if conflicting)  
@@ -147,9 +146,9 @@ Nuclear Autumn - Commmonwealth Enviornment Overhaul (not sure yet if conflicting
 Candy Eye - Vintage Weather (not sure yet if conflicting)  
 Candy Eye - Vintage Weather and environment lighting overhaul (DLC plugin)  
 
-World
+### World  
 
-Workshop
+### Workshop   
 (PS) Wireless Workshop Items (haven't tried, might try if FPS dips in Settlements!)
 (PS4) Integrated Commonwealth (updates a lot of leveling lists, might conflict with Factions Overahauls or overhauling other significant aspects of the game) 
 [Improved Quest Objectives](https://creations.bethesda.net/ja/fallout4/details/d811b4f8-0881-47bd-9099-ca202085d433/Improved_Quest_Objectives_for_FO4)
@@ -158,7 +157,7 @@ Vault Looter (Easy Mode) (adds Vault loot boxes)
 
 
 
-???
+### ???  
 Darker Nights & Rainy Weather (idk) 
 
 
