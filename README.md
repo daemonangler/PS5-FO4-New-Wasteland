@@ -11,6 +11,7 @@ https://www.reddit.com/r/Fallout4modsps4/comments/lwg40y/fallout_4_modding_101_h
 https://www.reddit.com/r/Fallout4modsps4/comments/192isi2/essential_playstation_mods_prebuilt_load_orders/  
 https://github.com/Camora0/Wasteland-Reborn?tab=readme-ov-file#important-mods  
 !!! https://www.reddit.com/r/fallout4london/comments/1p0vail/fallout_4_frame_generation_mod_in_fallout_london/  
+https://www.reddit.com/r/FalloutMods/comments/1craop3/fo4_ps5_lunar_fallout_overhaul_and_ufo4p/  
 
 
 ## Creation Club Content  
