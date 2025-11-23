@@ -1,7 +1,17 @@
-# PS5-FO4-New-Wasteland
 A definitive mod guide for Fallout 4 on next-gen / )PlayStation 5.  
 As of now this is a not even finished list, will update when I find time.  
 Mods are grouped by category in the Creation Club on PS5.  
+
+inspired by:
+https://www.reddit.com/r/FalloutMods/comments/ihiem7/anyone_know_the_mod_that_this_gas_mask_is_from_fo4/  
+https://www.reddit.com/r/Fallout/comments/pmt2mw/playing_fallout_4_on_survival_mode_is_more_fun/  
+https://docs.google.com/spreadsheets/d/1-oDs8enionIF1mNPZ1IE_C5Xxqbc4grEQpLy6WpCuSA/edit?pli=1&gid=2005578296#gid=2005578296  
+https://www.reddit.com/r/Fallout4modsps4/comments/1jkhfq7/fo4_fully_functional_fallout_4_100_mod_loadout/  
+https://www.reddit.com/r/Fallout4modsps4/comments/lwg40y/fallout_4_modding_101_how_to_guide_resources/  
+https://www.reddit.com/r/Fallout4modsps4/comments/192isi2/essential_playstation_mods_prebuilt_load_orders/  
+https://github.com/Camora0/Wasteland-Reborn?tab=readme-ov-file#important-mods  
+!!! https://www.reddit.com/r/fallout4london/comments/1p0vail/fallout_4_frame_generation_mod_in_fallout_london/  
+
 
 ## Creation Club Content  
 
@@ -41,7 +51,7 @@ I am not sure if all (for example X-02 Power Armor or Enclave Remnants) are free
 ### Automatron
 
 ### Characters
-Companion Face Overhaul  
+[Companion Face Overhaul](https://creations.bethesda.net/ja/fallout4/details/12a229fd-3c5e-46f6-8732-6e0cdccfca85/Companion_Face_Overhaul) fa
 
 ### Creatures
 
@@ -95,6 +105,9 @@ Campfires Burning and Cook Stations Too (still broken)
 ### Overhaul  
 LoreVerHaul?
 (PS$) Manufacturing Overhauled: Season Pass Version
+[Delirium](https://creations.bethesda.net/ja/fallout4/details/46ea28a4-560d-4b34-911a-90075b31155d/Delirium__PS4_)
+[Delayed Stimpak Heal Rate](https://creations.bethesda.net/ja/fallout4/details/c8c02a69-395d-49c7-9e27-5edbf3818373/Delayed_Stimpak_Heal_Rate__Fallout_76_)
+[Halloween Extras (Sony)](https://creations.bethesda.net/ja/fallout4/details/69c57132-c67d-4587-a8a9-2b496c7da1ce/Halloween_Extras__Sony_) (lower load order)
 
 
 ### Quests  
